@@ -7,7 +7,6 @@ name = "pypi"
 flask = "*"
 tweepy = "*"
 pylint = "*"
-black = "*"
 isort = "*"
 langchain = "*"
 langchain-openai = "*"
@@ -15,6 +14,8 @@ langchain-community = "*"
 langchain-anthropic = "*"
 langchain-ollama = "*"
 langchainhub = "*"
+black = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
