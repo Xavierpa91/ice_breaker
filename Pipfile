@@ -9,9 +9,12 @@ tweepy = "*"
 pylint = "*"
 black = "*"
 isort = "*"
+langchain = "*"
 langchain-openai = "*"
 langchain-community = "*"
-langchain = "*"
+langchain-anthropic = "*"
+langchain-ollama = "*"
+langchainhub = "*"
 
 [dev-packages]
 
